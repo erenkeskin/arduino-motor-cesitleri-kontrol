@@ -1,2 +1,12 @@
-# arduino-motor-cesitleri-kontrol-
-Kullanabileceğimiz 3 çeşit motor vardır, bunlar DC motor, Servo motor ve Step motor'dur. Bu repo'da tüm motorların kullanımı hakkında temel bilgilere erişebileceksiniz.
+# Arduino Motor Çeşitleri
+Elektronik projeleri geliştirmek istiyorsanız, 3 temel motoru kullanarak geliştirme yapabilirsiniz.
+Bunlar:
+- DC Motor
+- Servo Motor
+- Step Motor
+
+Bu Repo'da, burada yer alan motor çeşitlerinin temek kullanımını bulabileceksiniz. 
+
+##### Görsel Kaynakları
+- Servo Motor   [https://gelecegiyazanlar.turkcell.com.tr/sites/default/files/icerik/servo_001.jpg]
+- Servo Motor Potansiyometre Devre Çizimi [https://gelecegiyazanlar.turkcell.com.tr/sites/default/files/icerik/servo_002.jpg]
